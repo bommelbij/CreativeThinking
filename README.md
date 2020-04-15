@@ -1,2 +1,0 @@
-# CreativeThinking
-Alcohol data
